@@ -5,6 +5,8 @@ Green Hydrogen is a toolkit for geospatial analysis of green hydrogen production
 
 This repository is developed and maintained at: [https://github.com/jaybhalodiya10/GreenHydro](https://github.com/jaybhalodiya10/GreenHydro)
 
+
+
 ---
 
 ## Setting Up the Environment
@@ -38,4 +40,31 @@ Follow these steps to set up your environment and get started:
 
 ---
 
-For more details, see documentation and comments in the code.
+---
+
+## Results
+
+### Hydrogen Cost Comparison - India
+Pipeline transport offers significant cost advantages over trucking transport for hydrogen delivery across major Indian cities:
+
+- **Trucking Transport:**
+   - Average LCOH: 380 ₹/kg
+   - Range: 320–450 ₹/kg
+- **Pipeline Transport:**
+   - Average LCOH: 250 ₹/kg
+   - Range: 200–300 ₹/kg
+- **Cost Savings with Pipeline:**
+   - 130 ₹/kg (34.2%)
+
+### Analysis Visualizations
+- **Cost Comparison by Transport:**
+   - Bar chart comparing pipeline and trucking costs for Mumbai, Delhi, Bangalore, Chennai, and Kolkata.
+- **Transport Cost Breakdown:**
+   - Donut chart showing cost components: Infrastructure, Energy, Maintenance, Labor, Other.
+- **Location Suitability Distribution:**
+   - Pie chart showing suitability levels: Most Suitable, Mild Suitable, Unsuitable.
+
+### Factory Location Map
+- Interactive map visualizing factory locations, transport type selection, and cost threshold filtering for India.
+
+These results demonstrate the spatial and economic advantages of pipeline transport and help identify optimal factory locations for green hydrogen production and delivery.
