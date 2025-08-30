@@ -1,0 +1,9 @@
+scenario:
+  country: ['NA']
+  weather_year: [2023]
+  
+generators: ['Solar','Wind']
+
+transport:
+    pipeline_construction: true
+    road_construction: true

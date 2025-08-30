@@ -1,0 +1,17 @@
+# CDS API Configuration Template
+# Copy this file to your home directory and rename it to .cdsapirc
+# Then replace the placeholder values with your actual API credentials
+
+# CDS API URL (usually this is correct)
+url: https://cds.climate.copernicus.eu/api
+
+# Your CDS API Key (replace with your actual key)
+key: url: https://cds.climate.copernicus.eu/api
+key: c3aad6fb-0a4e-4466-b24b-e064c86ce8f6
+
+# Instructions:
+# 1. Copy this file to your home directory: C:\Users\YOUR_USERNAME\.cdsapirc
+# 2. Replace YOUR_API_KEY_HERE with your actual API key
+# 3. Save the file
+# 4. Make sure your CDS account is activated
+# 5. Test with: python Scripts/get_weather_data_simple.py 
