@@ -56,15 +56,19 @@ Pipeline transport offers significant cost advantages over trucking transport fo
 - **Cost Savings with Pipeline:**
    - 130 ₹/kg (34.2%)
 
+
 ### Analysis Visualizations
-- **Cost Comparison by Transport:**
-   - Bar chart comparing pipeline and trucking costs for Mumbai, Delhi, Bangalore, Chennai, and Kolkata.
-- **Transport Cost Breakdown:**
-   - Donut chart showing cost components: Infrastructure, Energy, Maintenance, Labor, Other.
-- **Location Suitability Distribution:**
-   - Pie chart showing suitability levels: Most Suitable, Mild Suitable, Unsuitable.
+**Cost Comparison by Transport:**
+Shows pipeline vs trucking costs for major Indian cities.
+![Cost Comparison by Transport](images/compare_cost.png)
+
+**Transport Cost Breakdown and Location Suitability Distribution:**
+Displays the breakdown of transport costs (infrastructure, energy, maintenance, labor, other) and the suitability levels of locations for hydrogen production.
+![Transport Cost Breakdown and Suitability Distribution](images/stats.png)
 
 ### Factory Location Map
-- Interactive map visualizing factory locations, transport type selection, and cost threshold filtering for India.
+**Factory Location Map:**
+Interactive map visualizing factory locations, transport type selection, and cost threshold filtering for India.
+![Factory Location Map](images/map_result.png)
 
 These results demonstrate the spatial and economic advantages of pipeline transport and help identify optimal factory locations for green hydrogen production and delivery.
